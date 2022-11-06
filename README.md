@@ -6,6 +6,6 @@ The tech stack used was<br/>
 2. ReactJS (For frontend)<br/>
 3. OracleDB (Database to store and retrieve data)<br/>
 
-<img src="./images/Landin-page.png">
+<img src="./images/Landing-page.png">
 <img src="./images/Signin-page.png">
 <img src="./images/Signup-page.png">
